@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1NwQVwmY15x3Ronx+KTKhgG7UP1chUnrG+pHrxMCVkU=",
+  "Source": "dotnet-api-heroku-demo",
+  "BasePath": "_content/dotnet-api-heroku-demo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
